@@ -9,9 +9,13 @@ Time spent: *15* hours
 - Summary:
   - Total attacks: 13583
   - GIF overview: 
-  https://gph.is/2SfEoz6
+    https://media.giphy.com/media/8YZxmr2JGgMistVSf0/giphy.gif
   
 ## Resources
+- https://github.com/threatstream/mhn
+- https://github.com/rep/dionaea
+- https://github.com/threatstream/mhn#honeypot
+
 
   
   
