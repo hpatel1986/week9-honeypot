@@ -8,7 +8,10 @@ Time spent: *15* hours
 - Honeypot deployed: Dionaea
 - Summary:
   - Total attacks: 13583
-  - GIF overview: honeypot.gif
+  - GIF overview: https://media.giphy.com/media/8YZxmr2JGgMistVSf0/giphy.gif
+  
+## Resources
+
   
   
   
