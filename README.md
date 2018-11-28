@@ -9,7 +9,7 @@ Time spent: *15* hours
 - Summary:
   - Total attacks: 13583
   - GIF overview: 
-    <iframe src="https://giphy.com/embed/8YZxmr2JGgMistVSf0" width="480" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/8YZxmr2JGgMistVSf0">via GIPHY</a></p>
+    <iframe src= https://giphy.com/embed/8YZxmr2JGgMistVSf0
     https://media.giphy.com/media/8YZxmr2JGgMistVSf0/giphy.gif
   
 ## Resources
